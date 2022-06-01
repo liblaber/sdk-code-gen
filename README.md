@@ -1,6 +1,6 @@
 # SDK Code Generator (Coming Soon)
 
-Follow and Star this Repository to get the latest changes and updates as we airdrop our Beta in the near future.
+Please follow and star this project to get updates prior to our Beta Launch.
 
 Your API deserves a better SDK.
 
