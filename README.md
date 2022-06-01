@@ -14,4 +14,4 @@ Generating docs for developer portal...done ✓
 
 Instantly generate SDKs in multiple languages for your API service.
 
-[![Join Our Discord](https://user-images.githubusercontent.com/1518708/171464936-408b2120-449f-4003-b9d4-877deb4f14f8.png)](https://discord.gg/F8aECHbRkV)
+[![Join Our Discord](discord.png)](https://discord.gg/F8aECHbRkV)
