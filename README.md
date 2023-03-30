@@ -5,7 +5,7 @@ Please follow and star this project to get updates prior to our Beta Launch.
 Your API deserves a better SDK.
 
 ```console
-> liblab generate-sdk --api="openapi.yaml"
+> liblab build --api="openapi.yaml"
 Generating SDK for Java...done ✓
 Generating SDK for Python...done ✓
 Generating SDK for JavaScript...done ✓
