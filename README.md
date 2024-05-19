@@ -1,4 +1,4 @@
-# SDK Code Generator (Coming Soon)
+# SDK Code Generator (Coming Soon...)
 
 Please follow and star this project to get updates prior to our Beta Launch.
 
